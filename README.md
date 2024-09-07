@@ -1,7 +1,5 @@
-# Fullstack Instagram Clone Tutorial
+#  Instagram Clone 
 
 ### Built With React, Firebase && Chakra UI
+### Learned about React , Js , Hooks Concept
 
-# [Tutorial](https://youtu.be/bQtAg7AFFrY)
-
-![Screenshot of App](https://i.ibb.co/PjkYLCk/Group-34.png)
