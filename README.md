@@ -3,7 +3,7 @@
 ### Built With React, Firebase && Chakra UI
 ### Learned about React , Js , Hooks Concept
 
-[My Website]([https://www.example.com](https://nandhu-socialapp-clone.vercel.app/))
+[My Website](((https://instaclone-shreenandhus-projects.vercel.app/auth)))
 
 ![Logo](./images/4.png)
 ![Logo](./images/3.png)
